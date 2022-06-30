@@ -9,3 +9,4 @@ we will use basic includes ( <b>STM32F401xx.h</b> which have basic adresses of d
  
 ### first BLINK
 - blink.c contains description of all the code 
+- next coming startup file
